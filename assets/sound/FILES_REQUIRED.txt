@@ -1,0 +1,6 @@
+bgm.wav
+jump.wav
+coin.wav
+cheese.wav
+gameover.wav
+finish.wav
